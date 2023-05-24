@@ -1,7 +1,7 @@
 # japan
 Discover Japan!
 
-This website is a game-themed informational website talking about the physical and human geography os Japan.
+This website is a game-themed informational website talking about the physical and human geography of Japan.
 
 There are 3 levels:-
 first one is about the physical geography of Japan
